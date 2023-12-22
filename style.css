@@ -1,25 +1,9 @@
 @font-face {
-    font-family: 'Postoni-Bold';
-    src: url('PostoniWide-Bold.woff2') format('woff2')
-}
-
-@font-face {
-    font-family: 'Postoni-Regular';
-    src: url('PostoniWide-Regular.woff2') format('woff2')
-}
-
-@font-face {
-    font-family: 'Franklin-Bold';
-    src: url('ITC_Franklin-Bold.woff2') format('woff2')
-}
-
-@font-face {
-    font-family: 'Franklin-Light';
-    src: url('ITC_Franklin-Light.woff2') format('woff2')
+    font-family: 'Roboto';
 }
 
 h1 {
-    font-family: "Postoni-Bold";
+    font-family: "Roboto";
     font-weight: 700;
     font-size: 56px;
     margin: 0;
@@ -30,7 +14,7 @@ h1 {
 h2 {
     font-size: 32px;
     line-height: 35.2px;
-    font-family: "Postoni-Bold";
+    font-family: "Roboto";
     margin-bottom: 16px;
     margin-top: 48px;
 }
@@ -43,7 +27,7 @@ h2.is-center {
 h3 {
     /* font-size: 23.8px;
     line-height: 33.32px; */
-    font-family: "Franklin-Bold";    
+    font-family: "Roboto";    
     font-size: 19.25px;
     line-height: 23.1px;
     margin-top: 0;
@@ -53,7 +37,7 @@ h3 {
 h4 {
     font-size: 20px;
     margin-bottom: 16px;
-    font-family: "Franklin-Bold";
+    font-family: "Roboto";
 }
 
 a {
@@ -68,7 +52,7 @@ a:hover {
 }
 
 .article__text {
-    font-family: "Georgia";
+    font-family: "Roboto";
     line-height: 1.6;
     /* padding-top: 24px; */
     padding-bottom: 24px;
@@ -78,7 +62,7 @@ a:hover {
 }
 
 .article__text span {
-    font-family: "Franklin-Bold";
+    font-family: "Roboto";
     border: none;
 }
 
@@ -95,7 +79,7 @@ a:hover {
 
 .label {
     font-size: 14px;
-    font-family: "Franklin-Bold";
+    font-family: "Roboto";
     font-weight: 700;
     text-transform: uppercase;
     padding-bottom: 4px;
@@ -107,14 +91,14 @@ a:hover {
 
 .subhed {
     font-size: 20px;
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
     padding-bottom: 4px;
     margin-bottom: 16px;
     color: #111;
 }
 
 .byline {
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
     font-size: 16px;
     margin-bottom: 4px;
 }
@@ -127,7 +111,7 @@ span {
 .date {
     color: #666;
     font-size: 14px;
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
     margin-bottom: 32px;
 }
 
@@ -136,7 +120,7 @@ img {
 }
 
 .image__caption {
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
     line-height: 1.25;
     color: #666;
     font-size: 14px;
@@ -146,7 +130,7 @@ img {
 .subtitle {
     font-size: 17.5px;
     line-height: 21px;
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
     margin-top: 0;
     margin-bottom: 10px;
 }
@@ -154,7 +138,7 @@ img {
 .caption {
     font-size: 14px;
     line-height: 16.8px;
-    font-family: "Franklin-Light";
+    font-family: "Roboto";
 }
 
 iframe {
