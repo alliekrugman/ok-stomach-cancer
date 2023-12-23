@@ -55,7 +55,7 @@ a:hover {
 
 .article__text {
     font-family: "Roboto";
-    line-height: 20px;
+    line-height: 30px;
     /* padding-top: 24px; */
     padding-bottom: 24px;
     font-size: 20px;
@@ -114,7 +114,7 @@ span {
     color: #666;
     font-size: 14px;
     font-family: "Roboto";
-    margin-bottom: 32px;
+    margin-bottom: 20px;
 }
 
 img {
