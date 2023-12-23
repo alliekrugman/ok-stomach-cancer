@@ -63,6 +63,10 @@ a:hover {
     margin: 0;
 }
 
+ p {
+      line-height: 1.5;
+    }
+
 .article__text span {
     font-family: "Roboto";
     border: none;
