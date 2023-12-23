@@ -55,7 +55,7 @@ a:hover {
 
 .article__text {
     font-family: "Roboto";
-    line-height: 2.5;
+    line-height: 20px;
     /* padding-top: 24px; */
     padding-bottom: 24px;
     font-size: 20px;
