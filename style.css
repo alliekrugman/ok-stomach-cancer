@@ -9,7 +9,7 @@ h1 {
     font-weight: 700;
     font-size: 40px;
     margin: 0;
-    line-height: 40px;
+    line-height: 60px;
     color: #111;
 }
 
@@ -64,7 +64,7 @@ a:hover {
 }
 
  p {
-      line-height: 2;
+      line-height: 1.6;
     }
 
 .article__text span {
